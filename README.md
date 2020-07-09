@@ -1,4 +1,4 @@
-Coding exploding stars and living cities. 
+Coding exploding stars 🔭 and living cities 🌃. 
 - 😄 Pronouns: she/her/hers 
 - 📫 Reach me at fedhere@gmail.com
 - 🐍 mostly python
