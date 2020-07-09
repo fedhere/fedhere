@@ -6,9 +6,10 @@ Coding exploding stars and living cities.
 - always excited to work on new things with new people
 
 
-![ ](bg.jpg)
+
 <!--
 **fedhere/fedhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ ](bg.jpg)
 
 Here are some ideas to get you started:
 - 🌱 Always trying to learn new things 
