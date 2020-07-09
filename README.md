@@ -2,6 +2,8 @@ Coding exploding stars and living cities.
 - 😄 Pronouns: she/her/hers 
 - 📫 Reach me at fedhere@gmail.com
 - 🐍 mostly python
+- always looking to learn new things
+- always excited to work on new things with new people
 
 
 ![ ](bg.jpg)
