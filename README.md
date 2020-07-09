@@ -4,7 +4,7 @@ Coding exploding stars and living cities.
 - 🐍 mostly python
 
 
-![all transients](bg.jpg)
+![ ](bg.jpg)
 <!--
 **fedhere/fedhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
